@@ -16,21 +16,21 @@ class FamilyStructure:
         self._members = [
             {
                 "id": self._generateId(),
-                "first_name": "John",
+                "first_name": "Michael",
                 "last_name": last_name,
                 "age": 33,
                 "lucky_numbers": [7, 13, 22]
             },
             {
                 "id": self._generateId(),
-                "first_name": "Jane",
+                "first_name": "Janet",
                 "last_name": last_name,
                 "age": 35,
                 "lucky_numbers": [10, 14, 3]
             },
             {
                 "id": self._generateId(),
-                "first_name": "Jimmy",
+                "first_name": "Latoya",
                 "last_name": last_name,
                 "age": 5,
                 "lucky_numbers": [1]
